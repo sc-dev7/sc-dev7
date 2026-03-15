@@ -1,5 +1,14 @@
-## Nice to meet you I'm a cybersecurity student 👋
+# Hi, I'm Sofiane 👋
 
-Currently a third-year Bachelor’s student at Aix Ynov Campus, I'm actively seeking an IT apprenticeship. During my time at Epitech, I developed strong skills in C and C++ programming. Additionally, I'm currently learning on my own, and plan to add networking, cloud, and cyber projects soon.
+🎓 Cybersecurity student @ Ynov Aix-en-Provence  
+🔍 Actively seeking a cybersecurity apprenticeship — September 2025  
+📍 Based in Aix-en-Provence — open to PACA / Lyon / Luxembourg  
 
-I’m always open to learning and growth, which is why I welcome constructive feedback from fellow developers. I believe in continuous improvement and collaboration to build robust, innovative solutions. I’m eager to contribute to exciting projects and exchange knowledge within the developer community.
+## 🔐 Current projects
+- 🏗️ **Active Directory lab** — AD domain, GPO, Kerberoasting simulation
+- 🐧 **Linux hardening** — Ubuntu server, Docker, Lynis audit, CTF write-ups  
+- ☁️ **Cloud log analyzer** — Azure VM, Python, SSH brute force detection
+
+## ⚙️ Background
+- 2 years @ Epitech — strong C/C++ foundation
+- Python scripting | Linux | Virtualization
